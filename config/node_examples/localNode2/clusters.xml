@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<clusters>
+  <cluster>
+      <no>1</no>
+      <servers>localhost:6172, localhost:6182</servers>
+      <partitions>0,1</partitions>
+  </cluster>
+</clusters>

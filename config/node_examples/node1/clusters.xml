@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<clusters>
+  <cluster>
+      <no>1</no>
+      <servers>ash2-voxd014.sm-us.sm.local:6172, ash2-voxd004.sm-us.sm.local:6182</servers>
+      <partitions>0,1</partitions>
+  </cluster>
+</clusters>

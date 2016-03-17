@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<clusters>
+  <port>4200</port>
+  <replicaPort>4204</replicaPort>
+
+  <store>
+    <name>test</name>
+    <path>data</path>
+    <delay>false</delay>
+    <mode>0</mode>
+    <freq>10</freq>
+    <batchSize>1</batchSize>
+    <sorted>true</sorted>
+  </store>
+  <store>
+    <name>store</name>
+    <path>data</path>
+    <delay>false</delay>
+    <mode>0</mode>
+    <freq>10</freq>
+    <batchSize>1</batchSize>
+    <sorted>true</sorted>
+  </store>
+
+</clusters>
