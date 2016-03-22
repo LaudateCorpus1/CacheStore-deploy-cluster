@@ -12,15 +12,24 @@ and backup without downtime, and user plugins to purge data
 without downtime. Key features include stored procedures, 
 triggers, queries, scans, and multiple gets and puts.
 
+Download
+==
+CacheStore Cluster Repository: https://github.com/viant/CacheStore-deploy-cluster
+CacheStore Cluster .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.zip
+CacheStore Cluster .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.tar.gz
+CacheStore Cluster .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.rpm
+
 Prerequisites
 ==
 
 - Operating Systems:
-		Linux, Mac, Windows *Not Fully Tested*
+    Linux, Mac, Windows *Not Fully Tested*
 - Java (1.7.0_09-icedtea): https://java.com/en/download/
 
 Quickstart Guides
 ==
+
+For this guide, we will assume that CacheStore is installed into the /opt folder.
 
 Local 2 Node Cluster
 -------------------------------
