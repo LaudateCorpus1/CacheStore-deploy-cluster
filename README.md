@@ -23,7 +23,9 @@ Prerequisites
 ==
 
 - Operating Systems:  
-    Linux, Mac, Windows *Not Fully Tested*
+    - Linux
+		- Mac
+		- Windows *Not Fully Tested*
 - Java (1.7.0_09-icedtea): https://java.com/en/download/
 
 Quickstart Guides
