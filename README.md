@@ -17,7 +17,7 @@ Download
 CacheStore Cluster Repository: https://github.com/viant/CacheStore-deploy-cluster
 CacheStore Cluster .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.zip
 CacheStore Cluster .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.tar.gz
-CacheStore Cluster .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.rpm
+CacheStore Cluster .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2-1.noarch.rpm
 
 Prerequisites
 ==
