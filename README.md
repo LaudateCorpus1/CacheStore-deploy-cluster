@@ -14,15 +14,15 @@ triggers, queries, scans, and multiple gets and puts.
 
 Download
 ==
-CacheStore Cluster Repository: https://github.com/viant/CacheStore-deploy-cluster
-CacheStore Cluster .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.zip
-CacheStore Cluster .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.tar.gz
-CacheStore Cluster .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2-1.noarch.rpm
+CacheStore Cluster Repository: https://github.com/viant/CacheStore-deploy-cluster  
+CacheStore Cluster .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.zip  
+CacheStore Cluster .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.tar.gz  
+CacheStore Cluster .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-cluster-1.0.2-1.noarch.rpm  
 
 Prerequisites
 ==
 
-- Operating Systems:
+- Operating Systems:  
     Linux, Mac, Windows *Not Fully Tested*
 - Java (1.7.0_09-icedtea): https://java.com/en/download/
 
