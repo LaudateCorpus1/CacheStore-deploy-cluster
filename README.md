@@ -111,7 +111,7 @@ found at: http://viant.github.io/CacheStore/
 Latest Version
 ==
 
-The latest version can be found
+The latest version 1.0.3 can be found
 at: https://github.com/viant/CacheStore
 
 
