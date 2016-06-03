@@ -15,9 +15,9 @@ triggers, queries, scans, and multiple gets and puts.
 Download
 ==
 CacheStore Cluster Repository: https://github.com/viant/CacheStore-deploy-cluster  
-CacheStore Cluster .zip: http://viant.github.io/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.zip  
-CacheStore Cluster .tar.gz: http://viant.github.io/CacheStore/downloads/cachestore-deploy-cluster-1.0.2.tar.gz  
-CacheStore Cluster .rpm: http://viant.github.io/CacheStore/downloads/cachestore-deploy-cluster-1.0.2-1.noarch.rpm  
+CacheStore Cluster .zip: http://viant.github.io/CacheStore/downloads/cachestore-deploy-cluster-1.1.0.zip  
+CacheStore Cluster .tar.gz: http://viant.github.io/CacheStore/downloads/cachestore-deploy-cluster-1.1.0.tar.gz  
+CacheStore Cluster .rpm: http://viant.github.io/CacheStore/downloads/cachestore-deploy-cluster-1.1.0-1.noarch.rpm  
 
 Prerequisites
 ==
@@ -111,7 +111,7 @@ found at: http://viant.github.io/CacheStore/
 Latest Version
 ==
 
-The latest version 1.0.3 can be found
+The latest version 1.1.0 can be found
 at: https://github.com/viant/CacheStore
 
 
